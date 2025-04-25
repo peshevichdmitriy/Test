@@ -1,2 +1,2 @@
-public class Whale extends Mammals{
+public class Whale extends Mammals implements LivesIn{
 }
