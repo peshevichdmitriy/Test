@@ -1,3 +1,3 @@
-public class Fish extends Animal implements LivesIn {
+public class Fish extends Animal implements Habitat {
 
 }
